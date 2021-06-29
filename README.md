@@ -1,5 +1,5 @@
 # cic-code-co
-Code Improvement Commission - structured HTML State Codes of colorado (CO)
+Code Improvement Commission - structured HTML State Codes of Colorado (CO)
 
 This repository was created by UniCourt on behalf of Public.Resource.Org. All this work is in the public domain and there are NO RIGHTS RESERVED.
 
